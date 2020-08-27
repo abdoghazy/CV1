@@ -1,0 +1,19 @@
+body{
+  background-color: white;
+  margin: 0px;
+  font-family: 'Playfair Display', serif;
+  color: white;
+}
+
+h3{
+  font-style: italic;
+}
+
+div{
+  background-color:  #CED6D6;
+  margin: 0px auto;
+  position: relative;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
